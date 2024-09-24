@@ -4,7 +4,7 @@ Neste episódio do podcast, é discutido o universo das IAs generativas e sua in
 
 <audio controls>
   <source src="./PodcastAIGenerative.mp3" type="audio/mpeg">
-  <p><a href="[url](https://g10van1.github.io/podcast-ai-generative/)">Podcast</a></p>
+  <a href="https://g10van1.github.io/podcast-ai-generative/">Podcast</a>
 </audio>
 
 #### [Texto do Podcast](Texto.md)
